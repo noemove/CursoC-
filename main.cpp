@@ -3,15 +3,6 @@
 using namespace std;
 
 int main() {
-do{
-    /* code */
-    char respuesta;
-    cout << "Deseas terminar : " << endl;
-    cin >> respuesta;
-    if (respuesta == 'y'){
-        cout << "bye bye";
-        break;
-    }
-} while (true);
-
+cout << "Hola mundo" << endl;
+return 0;
 }
